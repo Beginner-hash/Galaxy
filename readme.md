@@ -1,4 +1,6 @@
-# Three.js Journey
+## Access this project live
+
+You can access this project live on this link : [Galaxy](https://galaxy-alpha-swart.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
